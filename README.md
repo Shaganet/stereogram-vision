@@ -16,6 +16,7 @@ The purpose of this repository is to create a dataset of stereograms and train a
 To form a balanced dataset, 1000 images will be used, divided equally between two classes:
 
 — **500 images with a hidden 3D image (class 1)**,
+
 — **500 images without hidden content (class 0).**
 
 In the future, it is also planned to expand the dataset by generating synthetic stereograms, which will increase the variety of data, improve the generalizing ability of the model and test it on controlled examples.
