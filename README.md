@@ -11,7 +11,7 @@ The purpose of this repository is to create a dataset of stereograms and train a
 3. **Model Training** — train a neural network  to classify.
 4. **Real-World Testing** — validate the model on unseen, real stereograms from public or user sources.
 
-## **1. Create a dataset stage.**
+## **1. Create a dataset stage**
 
 To form a balanced dataset, 1000 images will be used, divided equally between two classes:
 
