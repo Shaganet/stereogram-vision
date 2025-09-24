@@ -19,6 +19,6 @@ To form a balanced dataset, 150 images will be used, divided equally between two
 
 — **50 stereograms without hidden content (class 0)**
 
-— **50 real photos not stereograms(class 0)**
+— **50 real photos not stereograms (class 0)**
 
 In the future, it is also planned to expand the dataset by generating synthetic stereograms, which will increase the variety of data, improve the generalizing ability of the model and test it on controlled examples.
